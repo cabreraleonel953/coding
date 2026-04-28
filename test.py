@@ -8,3 +8,6 @@ def my_function():
 value = 5
 value_2 = 2
 value_3 = 3
+
+def other_function():
+    pass
