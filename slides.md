@@ -4,11 +4,13 @@ theme: default
 footer: "Uso de markdown"
 header: "Uso de marp"
 author: "Leonel Cabrera"
+paginate: True
 ---
 
 # Proyecto Aplicativo 
 ## Victor Leonel Cabrera Garduño
 ### 00603018
+<!-- _paginate: Hide -->
 
 ---
 
@@ -212,7 +214,7 @@ $x' = r \cos(\theta + \alpha), \; y' = r \sin(\theta + \alpha)$
 
 ---
 
- Pero:$r \cos(\theta + \alpha) = r\cos(\theta)\cos(\alpha) - r \sin(\theta)\sin(\alpha)$
+ Pero: $r \cos(\theta + \alpha) = r\cos(\theta)\cos(\alpha) - r \sin(\theta)\sin(\alpha)$
   de manera que:
 
 $$
